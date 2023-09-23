@@ -1,3 +1,4 @@
 This is Jorge Morales Alfaro Academic Website 
+I am second year PhD student in Health Policy at UC-Berkeley School of Public Health 
 
-i will add an image here 
+ will add an image here 
